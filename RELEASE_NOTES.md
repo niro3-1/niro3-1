@@ -1,4 +1,4 @@
-# Release Notes for Version 1.0.0
+# Release 1.0.0
 
 - Added regex validation for email field.
 - Changed toast duration to 4 seconds.
