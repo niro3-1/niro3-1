@@ -1,7 +1,6 @@
-# Release Notes for Version 1.0.0
+# Release 1.0.0
 
-- Initial release with basic features.
-- Added documentation and examples.
+- Initial release of the project.
 
 ## Versioning
 - Version: 1.0.0
