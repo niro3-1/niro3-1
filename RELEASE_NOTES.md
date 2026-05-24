@@ -1,1 +1,1 @@
-Release v1.0.3
+Release version 1.0.0
