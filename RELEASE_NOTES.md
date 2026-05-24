@@ -1,8 +1,6 @@
 # Release 1.0.0
 
-- Added regex validation for email field.
-- Changed toast duration to 4 seconds.
-- Added Empty State Component.
+- Initial release of the project.
 
 ## Versioning
 
