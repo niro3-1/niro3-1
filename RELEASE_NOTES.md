@@ -1,9 +1,9 @@
-# Release 1.0.0
+# Release Notes for Version 1.1.0
 
-- Initial release of the project.
+- Updates and improvements since version 1.0.0.
 
 ## Versioning
-- Version: 1.0.0
+- Version: 1.1.0
 - Date: 2026-05-24
 
 ## Contributors
