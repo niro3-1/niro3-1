@@ -1,10 +1,10 @@
-# Release Notes for Version 1.1.0
+# Release Notes for Version 1.0.0
 
-- Updates and improvements since version 1.0.0.
+- Initial release with basic features.
 
 ## Versioning
-- Version: 1.1.0
-- Date: 2026-05-24
+- Version: 1.0.0
+- Date: 2023-10-01
 
 ## Contributors
 - niro3-1
