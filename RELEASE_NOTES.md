@@ -1,8 +1,8 @@
-# Release 1.0.0
+# Release Notes for Version 1.0.0
 
-Initial release of the project.
+- Added regex validation for email field.
+- Changed toast duration to 4 seconds.
+- Added Empty State Component.
 
-## Versioning
-
-- Version: 1.0.0
-- Date: 2026-05-17
+## Contributors
+- niro3-1
