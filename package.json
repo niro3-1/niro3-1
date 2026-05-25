@@ -1,1 +1,1 @@
-{"name": "example-package", "version": "1.0.1", "description": "An example package.", "main": "index.js", "scripts": {"test": "echo 'Error: no test specified' && exit 1"}, "author": "Your Name", "license": "ISC"}
+{"dependencies": {"timeout": "^3.0.0"}}
