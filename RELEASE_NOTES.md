@@ -1,11 +1,3 @@
-# Release Notes
+# Release version 1.0.2
 
-## [1.0.2] - 2026-06-01
-### Added
-- New features and improvements.
-
-### Changed
-- None
-
-### Fixed
-- Minor bug fixes.
+Release notes for version 1.0.2.
