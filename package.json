@@ -1,1 +1,1 @@
-{"dependencies": {"timeout": "^3.0.1"}}
+{"dependencies": {"jsonwebtoken": "^9.0.0","timeout": "^3.0.0"}}
