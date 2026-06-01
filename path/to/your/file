@@ -1,0 +1,5 @@
+// Bumped relevant dependency for issue #35
+
+// Example: Updated express from 4.17.1 to 4.18.0
+
+// Ensure to check for breaking changes in the changelog.
