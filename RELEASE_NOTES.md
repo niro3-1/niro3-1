@@ -1,11 +1,11 @@
 # Release Notes
 
-## [1.0.1] - 2026-06-01
+## [1.0.2] - 2026-06-01
 ### Added
-- Initial release with core features.
+- New features and improvements.
 
 ### Changed
 - None
 
 ### Fixed
-- None
+- Minor bug fixes.
