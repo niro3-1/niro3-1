@@ -1,3 +1,3 @@
-# Release version 1.0.2
+# Release version 1.0.1
 
-Release notes for version 1.0.2.
+Initial release for version 1.0.1
