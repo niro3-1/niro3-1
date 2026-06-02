@@ -1,1 +1,3 @@
-Release version 1.0.1
+Release notes for version 1.0.2
+
+Previous version: 1.0.1
