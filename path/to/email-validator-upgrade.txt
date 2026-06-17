@@ -1,0 +1,3 @@
+# Upgraded email-validator dependency
+
+This commit upgrades the email-validator package to the latest version for improved validation.
